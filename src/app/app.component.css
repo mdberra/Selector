@@ -1,0 +1,11 @@
+.selector1 {
+    width: 300px;
+    padding: 5px;
+    height: 50px;
+    border: 1px solid #999;
+}
+.selector {
+    
+    min-height: 0px;
+    border-radius: 0;
+}
